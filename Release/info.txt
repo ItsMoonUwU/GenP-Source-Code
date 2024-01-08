@@ -1,0 +1,6 @@
+If you want to patch XD or Fresco
+Run RunMe.exe
+It will start GenP with elevated privileges (system level)
+
+Or simply start GenP directly if you don't need to patch those apps
+or you are scared and don't understand included source code )
